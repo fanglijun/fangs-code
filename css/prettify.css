@@ -1,0 +1,16 @@
+.str{color:#800000}/*字符串*/
+.kwd{color:Blue}/*关键字*/
+.com{color:Green}/*注释*/
+.typ{color:Black}/*类型*/
+.lit{color:Black}/*数字*/
+.pun{color:Black}/*=({[.,*/
+.pln{color:Black}/*plain*/
+.tag{color:#800000}/*标签*/
+.atn{color:Red}/*属性名*/
+.atv{color:Blue}/*属性值*/
+.dec{color:Blue}/**/
+pre.prettyprint{padding:2px;border:1px solid #888}
+ol.linenums{margin-top:0;margin-bottom:0}
+li.L0,li.L1,li.L2,li.L3,li.L5,li.L6,li.L7,li.L8{list-style:none}
+li.L1,li.L3,li.L5,li.L7,li.L9{background:#eee}
+@media print{.str{color:#060}.kwd{color:#006;font-weight:bold}.com{color:#600;font-style:italic}.typ{color:#404;font-weight:bold}.lit{color:#044}.pun{color:#440}.pln{color:#000}.tag{color:#006;font-weight:bold}.atn{color:#404}.atv{color:#060}}
