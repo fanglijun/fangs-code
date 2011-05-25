@@ -1,0 +1,24 @@
+﻿html,body,h1,h2,h3,h4,h5,h6,ul,ol,li,hr,p,blockquote{margin:0;padding:0;}
+ul,li{list-style:none;}
+caption{display:none;}
+
+/* RESET */
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.clearfix{display:inline-block;}
+* html .clearfix{height:1%;}
+.clearfix{display:block;}
+/* CLEARFIX */ 
+
+
+.bc{margin-left:auto;margin-right:auto;}
+.tc{text-align:center;}
+.fr{float:right;}
+.fl{float:left;}
+.clear{clear:both;}
+.hide{display:none;}
+.mr10{margin-right:10px;}
+.mb10{margin-bottom:10px;}
+.mt10{margin-top:10px;}
+.rounded5{-moz-border-radius: 5px; -khtml-border-radius: 5px;-webkit-border-radius: 5px;border-radius: 5px;}
+
+/* COMMON */
